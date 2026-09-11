@@ -1,0 +1,8 @@
+{
+  "name": "SCL Gestão de Pessoas",
+  "description": "Sistema integrado de Gestão de Pessoas, Estrutura Organizacional e Departamento Pessoal da SCL com sincronização direta via Google Planilhas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
